@@ -55,11 +55,6 @@ export default function Home() {
           href="https://www.linkedin.com/in/alecbcampbell"
           Name="Connect with me on LinkedIn"
         />
-        <Link
-          image="https://icons-for-free.com/iconfiles/png/512/suitcase+work+icon-1320165848716624003.png"
-          href="https://www.avneesh.tech/"
-          Name="Checkout my resume"
-        />
       </div>
     </div>
   );
