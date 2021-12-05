@@ -5,10 +5,10 @@ export default function Home() {
   return (
     <div className="relative flex flex-col w-screen min-h-screen overflow-x-hidden bg-indigo-200 md:justify-center md:items-center">
       <Head>
-        <title>Connect with Avneesh</title>
+        <title>Connect with uvacoder</title>
         <link
           rel="icon"
-          href="https://res.cloudinary.com/dssvrf9oz/image/upload/v1625825953/Avneesh_Avatar_gukdsk.png"
+          href="https://res.cloudinary.com/iarenotamnot/image/upload/v1634341683/kid-blue-hat.webp"
         />
       </Head>
       <div className="absolute top-[45%] left-[0%] md:left-[20%] w-72 h-72 bg-purple-300 rounded-full mix-blend-multiply filter blur-lg opacity-90 animate-blob"></div>
@@ -17,11 +17,11 @@ export default function Home() {
       <div className="!mt-5">
         <img
           className="w-[220px] rounded-full mx-auto"
-          src="https://res.cloudinary.com/dssvrf9oz/image/upload/v1625825953/Avneesh_Avatar_gukdsk.png"
-          alt="Avneesh Agarwal"
+          src="https://res.cloudinary.com/iarenotamnot/image/upload/v1634341683/kid-blue-hat.webp"
+          alt="uvacoder"
         />
         <h2 className="my-3 text-3xl font-bold text-center text-indigo-900 md:text-4xl">
-          Avneesh Agarwal
+          uvacoder
         </h2>
       </div>
       <div className="w-full max-w-lg p-6">
@@ -42,17 +42,17 @@ export default function Home() {
         />
         <Link
           image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"
-          href="https://github.com/avneesh0612"
+          href="https://github.com/uvacoder"
           Name="Look at my code on Github"
         />
         <Link
           image="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png"
-          href="https://twitter.com/avneesh0612"
+          href="https://twitter.com/AlecCam43544378"
           Name="Follow me on Twitter"
         />
         <Link
           image="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png"
-          href="https://www.linkedin.com/in/avneesh-agarwal-78312b20a/"
+          href="https://www.linkedin.com/in/alecbcampbell"
           Name="Connect with me on LinkedIn"
         />
         <Link
