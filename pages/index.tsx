@@ -32,7 +32,7 @@ export default function Home() {
         />
         <Link
           image="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress"
-          href="https://avneesh0612.hashnode.dev/"
+          href="https://uvacoder.hashnode.dev/"
           Name="Checkout my blogs on Hashnode"
         />
         <Link
